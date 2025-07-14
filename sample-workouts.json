@@ -1,0 +1,37 @@
+{
+  "Chest": [
+    ["Flat bench press 5x20", "Incline dumbbell press 4x15", "Cable crossover 3x12", "Push ups 3x20"],
+    ["Incline barbell press 4x12", "Dumbbell flyes 3x15", "Dips 3x12", "Cable crossover 4x15"],
+    ["Dumbbell bench press 4x15", "Incline dumbbell flyes 3x12", "Push ups 4x20", "Pec deck 3x15"]
+  ],
+  "Back": [
+    ["Pull ups 4x8", "Barbell rows 4x12", "Lat pulldown 3x15", "Cable rows 3x12"],
+    ["Deadlifts 4x8", "T-bar rows 4x10", "Wide grip pulldown 3x12", "Face pulls 3x15"],
+    ["Chin ups 3x10", "Dumbbell rows 4x12", "Cable pulldown 4x12", "Reverse flyes 3x15"]
+  ],
+  "Legs": [
+    ["Squats 4x15", "Leg press 4x20", "Lunges 3x12", "Calf raises 4x20"],
+    ["Deadlifts 4x10", "Leg curls 4x15", "Leg extensions 3x15", "Walking lunges 3x20"],
+    ["Hack squat 4x12", "Romanian deadlifts 4x12", "Bulgarian split squats 3x10", "Calf press 4x15"]
+  ],
+  "Shoulders": [
+    ["Military press 4x12", "Lateral raises 4x15", "Rear delt flyes 3x15", "Shrugs 3x12"],
+    ["Dumbbell press 4x12", "Front raises 3x12", "Cable lateral raises 4x15", "Face pulls 3x15"],
+    ["Arnold press 3x12", "Upright rows 3x12", "Bent over lateral raises 4x12", "Shoulder press machine 3x15"]
+  ],
+  "Arms": [
+    ["Barbell curls 4x12", "Close grip bench press 4x12", "Hammer curls 3x15", "Tricep dips 3x12"],
+    ["Dumbbell curls 4x12", "Overhead tricep extension 4x12", "Cable curls 3x15", "Tricep pushdowns 4x15"],
+    ["Preacher curls 3x12", "Diamond push ups 3x15", "21s curls 3x7", "Skull crushers 4x12"]
+  ],
+  "Core": [
+    ["Plank 3x60s", "Russian twists 3x20", "Mountain climbers 3x30", "Dead bugs 3x10"],
+    ["Bicycle crunches 3x20", "Leg raises 3x15", "Side plank 2x45s", "Hollow body hold 3x30s"],
+    ["V-ups 3x15", "Plank to push up 3x12", "Flutter kicks 3x20", "Bear crawl 3x30s"]
+  ],
+  "Schedules": [
+    ["Monday: Chest", "Tuesday: Back", "Wednesday: Legs", "Thursday: Shoulders", "Friday: Arms", "Saturday: Core", "Sunday: Rest"],
+    ["Monday: Upper Body", "Tuesday: Lower Body", "Wednesday: Rest", "Thursday: Push", "Friday: Pull", "Saturday: Legs", "Sunday: Rest"],
+    ["Daily: 20 min walk", "Monday/Wednesday/Friday: Full Body", "Tuesday/Thursday: Cardio", "Saturday: Yoga", "Sunday: Rest"]
+  ]
+}
